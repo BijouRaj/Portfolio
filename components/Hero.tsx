@@ -23,7 +23,7 @@ return (
         View Projects
     </a>
     <a
-        href="/Bijou_Raj_Resume.pdf"
+        href="/Bijou%20Resume%202025.pdf" download
         target="_blank"
         className="px-6 py-3 border border-blue-600 text-blue-600 rounded-lg hover:bg-blue-50 transition"
     >
